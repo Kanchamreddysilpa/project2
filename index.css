@@ -1,0 +1,176 @@
+.container
+{
+    height: 500px;
+    width:50%;
+    border: none;
+    display: flex;
+    margin: auto;
+    background-color: rgb(244, 245, 247);
+    margin-top: 60px;
+    border-radius: 20px;
+}
+
+.container .sub_container
+{
+    height: 470px;
+    width: 30%;
+    
+    margin: 10px;
+}
+
+.sub_container .sub_img1
+{
+    height: 15%;
+    width: 90%;
+    margin: 10px;
+    border: none;
+    background-color: rgb(198, 234, 246);
+    border-radius: 20px;
+}
+
+.sub_container .sub_img2
+{
+    height: 25%;
+    width: 90%;
+    margin: 10px;
+    border: none;
+    background-color: rgb(198, 232, 243);
+    border-radius: 20px;
+}
+
+.sub_container .sub_img3
+{
+    height: 50%;
+    width: 90%;
+    margin: 10px;
+    border: none;
+    background-color: rgb(107, 206, 239);
+    border-radius: 20px;
+}
+
+.sub_container .sub_img4
+{
+    height: 50%;
+    width: 90%;
+    margin: 10px;
+    border: none;
+    background-color: pink;
+    border-radius: 20px;
+}
+
+.sub_container .sub_img5
+{
+    height: 30%;
+    width: 90%;
+    margin: 10px;
+    border: none;
+    background-color: rgb(111, 148, 197);
+    border-radius: 20px;
+}
+
+.sub_container .sub_img6
+{
+    height: 10%;
+    width: 90%;
+    margin: 10px;
+    border: none;
+    background-color: rgb(64, 64, 130);
+    border-radius: 20px;
+}
+
+.sub_container .sub_img7
+{
+    height: 10%;
+    width: 90%;
+    margin: 10px;
+    border: none;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+}
+
+.sub_container .sub_img8
+{
+    height: 25%;
+    width: 90%;
+    margin: 10px;
+    display: flex;
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.sub_container .sub_img9
+{
+    height: 10%;
+    width: 90%;
+    margin: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.sub_container .sub_img10
+{
+    height: 43%;
+    width: 90%;
+    margin: 10px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.sub_img7 .search_img
+{
+    height: 45px;
+    margin-left: 10px;
+    
+}
+
+.sub_img7 .sch
+{
+    text-align: center;
+    margin-top: 12px;
+}
+
+.sub_img8 .img81
+{
+    height: 100%;
+    width: 90%;
+    border: none;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+
+.sub_img8 .img82
+{
+    height: 90%;
+    width: 90%;
+    margin: 10px;
+    border-radius: 10px;    
+}
+
+.img81 .list
+{
+    margin-top: -15px;
+    margin-left: -20px;
+}
+
+.img82 .ex_img
+{
+    height: 50px; 
+    margin-top: 30px;
+}
+.sub_img5 .cal_img
+{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
